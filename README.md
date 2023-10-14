@@ -10,7 +10,7 @@
 ## 💫 About Me:
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React and Next<br>👯 I’m looking to collaborate with Cool React Projects and Full Stack Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>⚡Quote: Right things happen at the right time.
+🔭 I’m currently working on Self Project <br>👯 I’m looking to collaborate on Tech geeks <br> 🌱 I’m currently learning React and Next<br>👯 I’m looking to collaborate with Cool React Projects and Full Stack Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>⚡Quote: Right things happen at the right time.
 
 <br/><br/><br/>
 
