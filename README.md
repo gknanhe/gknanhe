@@ -1,7 +1,14 @@
-<h1 align="center">Hi <img src="./wave.gif" width=30>, I'm Ganesh  </h1>
+<h1 align="center">Hi <img src="./wave.gif" width=30> I'm Ganesh  Nanhe</h1>
 <!-- <h3 align="center">A passionate frontend developer.</h3> -->
 
-[![](https://visitcount.itsvg.in/api?id=gknanhe&icon=0&color=6)](https://visitcount.itsvg.in)
+
+
+
+<p align="center" display="block">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F76A2C&center=true&vCenter=true&random=false&width=839&lines=This+is+Ganesh+Nanhe;Frontend+Web+Developer;Currently+Creating+Projects+Using+React" />
+</p>
+
+
 
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
