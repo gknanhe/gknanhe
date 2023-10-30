@@ -11,22 +11,33 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gknanhe&label=Profile%20views&color=0f56b3&?style=for-the-badge" alt="gknanhe" /> </p>
 
 
-![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+ ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif) 
 
 
 
-## 💫 About Me:
-<div  style="display: flex, align-item: center, justify-content: space-between"><img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<h3>💫 Here are some facts about me:</h3>
 
-🔭 I’m currently working on Self Project <br> 👩‍💻 Web dev enthusiast <br>
-🌱 Learning to build with React<br>
-⚡Quote: Right things happen at the right time.</div>
+<img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
+- 🔭 I’m currently working on Self Project
+-  👩‍💻 Web dev enthusiast
+- 🌱 Learning to build with **React**
+- ⚡Quote: Right things happen at the right time.
 
 
-<br/><br/><br/>
+<br/>
+<h3 align="left">🌐Connect with me:</h3>
+<a href="mailto:cse18gknanhejd@gmail.com"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
+<a href="https://linkedin.com/in/ganesh-nanhe-928ab2220"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
+<!-- <a href="https://srejitk.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-0f56b3?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="left" /> </a> -->
+<a href="https://instagram.com/ganesh_nanhe._"><img src="https://img.shields.io/badge/Instagram-ee2a7b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"  align="left"/></a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ganesh_nanhe._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-nanhe-928ab2220) 
+
+<br />
+<br />
+
+<!-- ## 🌐 Connect With Me:
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ganesh_nanhe._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-nanhe-928ab2220) -->
 
 <br/><br/><br/>
 
