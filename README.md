@@ -15,10 +15,12 @@
 
 
 ## 💫 About Me:
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<div  style="display: flex, align-item: center, justify-content: space-between"><img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 🔭 I’m currently working on Self Project <br> 👩‍💻 Web dev enthusiast <br>
-🌱 Learning to build with React<br>⚡Quote: Right things happen at the right time.
+🌱 Learning to build with React<br>
+⚡Quote: Right things happen at the right time.</div>
+
 
 <br/><br/><br/>
 
