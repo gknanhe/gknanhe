@@ -14,18 +14,20 @@
  ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif) 
 
 
+<h3 align="center"></h3>
+
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <h3>💫 Here are some facts about me:</h3>
-
-<img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 - 🔭 I’m currently working on Self Project
 -  👩‍💻 Web dev enthusiast
 - 🌱 Learning to build with **React**
 - ⚡Quote: Right things happen at the right time.
-
-
-<br/>
+<!--https://peerlist.io/srejitk --->
+<h3>Find out about my professional life here:</h3>
+<a href="https://peerlist.io/gknanhe?tab=resume"><img height=44 src="https://github.com/Siddhant-K-code/Siddhant-K-code/blob/master/PL%20Logo%20-%20Primary.svg"/></a> 
+<br>
 <h3 align="left">🌐Connect with me:</h3>
 <a href="mailto:cse18gknanhejd@gmail.com"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
 <a href="https://linkedin.com/in/ganesh-nanhe-928ab2220"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
