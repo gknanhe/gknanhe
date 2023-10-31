@@ -1,12 +1,13 @@
-<h1 align="center">Hi <img src="./wave.gif" width=30> I'm Ganesh  Nanhe</h1>
-<!-- <h3 align="center">A passionate frontend developer.</h3> -->
+<!--<h1 align="center">Hi <img src="./wave.gif" width=30> I'm Ganesh  Nanhe</h1>
+ <h3 align="center">A passionate frontend developer.</h3> -->
 
 
 
 
-<p align="center" display="block">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F76A2C&center=true&vCenter=true&random=false&width=839&lines=This+is+Ganesh+Nanhe;Frontend+Web+Developer;Currently+Creating+Projects+Using+React" />
-</p>
+<h1 align="center">
+<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Ganesh+Nanhe!++%E0%B2%A0+%E2%80%BF%E2%86%BC++;A+Frontend+Developer+%E2%9A%9B" alt="Typing SVG" /> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Ganesh+Nanhe!++%E0%B2%A0+%E2%80%BF%E2%86%BC++;A+Frontend+Developer+%E2%9A%9B" />
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gknanhe&label=Profile%20views&color=0f56b3&?style=for-the-badge" alt="gknanhe" /> </p>
 
@@ -74,6 +75,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gknanhe&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
+<br/><br/>
+<hr />
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
 <!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gknanhe&theme=yeblu&border=1E68EB&background=45%2C09182966%2C166BB833&currStreakLabel=3AE4EB&sideNums=81EBDA&stroke=20B4EB&sideLabels=EBD646&ring=573FEB&fire=EB8B48&currStreakNum=23EB6E&dates=87B6FF)](https://git.io/streak-stats)
 ---  -->
