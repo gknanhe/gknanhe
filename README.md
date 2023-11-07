@@ -27,7 +27,9 @@
 - ⚡Quote: Right things happen at the right time.
 <!--https://peerlist.io/srejitk --->
 <h3>Find out about my professional life here:</h3>
-<a href="https://peerlist.io/gknanhe?tab=resume"><img height=44 src="https://github.com/gknanhe/gknanhe/assets/74034986/484d6acd-2c8c-4ee9-a9c5-1f6a2bbeb455"/></a> 
+<!-- <a href="https://peerlist.io/gknanhe?tab=resume"><img height=44 src="https://github.com/gknanhe/gknanhe/assets/74034986/484d6acd-2c8c-4ee9-a9c5-1f6a2bbeb455"/></a> -->
+<a href="https://peerlist.io/gknanhe?tab=resume"><img height=44 src="https://github.com/gknanhe/gknanhe/assets/74034986/6a29abd9-febf-4d44-b55d-6c18b485fccf"/></a>  
+
 <br>
 <h3 align="left">🌐Connect with me:</h3>
 <a href="mailto:cse18gknanhejd@gmail.com"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
