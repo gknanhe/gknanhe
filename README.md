@@ -18,7 +18,7 @@
 <h3 align="center"></h3>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
-
+<br>
 <h3>💫 Here are some facts about me:</h3>
 
 - 🔭 I’m currently working on Self Project
@@ -26,11 +26,12 @@
 - 🌱 Learning to build with **React**
 - ⚡Quote: Right things happen at the right time.
 <!--https://peerlist.io/srejitk --->
-<h3>Find out about my professional life here:</h3>
+<!-- <h3>Find out about my professional life here:</h3> -->
 <!-- <a href="https://peerlist.io/gknanhe?tab=resume"><img height=44 src="https://github.com/gknanhe/gknanhe/assets/74034986/484d6acd-2c8c-4ee9-a9c5-1f6a2bbeb455"/></a> -->
-<a href="https://peerlist.io/gknanhe?tab=resume"><img height=44 src="https://github.com/gknanhe/gknanhe/assets/74034986/6a29abd9-febf-4d44-b55d-6c18b485fccf"/></a>  
+<!-- <a href="https://peerlist.io/gknanhe?tab=resume"> Click! <img height=44 src="https://github.com/gknanhe/gknanhe/assets/74034986/6a29abd9-febf-4d44-b55d-6c18b485fccf" alt="logo"/></a>   -->
 
-<br>
+
+<br/>
 <h3 align="left">🌐Connect with me:</h3>
 <a href="mailto:cse18gknanhejd@gmail.com"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
 <a href="https://linkedin.com/in/ganesh-nanhe-928ab2220"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
