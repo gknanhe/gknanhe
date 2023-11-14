@@ -55,7 +55,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=express,jquery,js,html,css,react,next,nodejs,threejs,tailwind,linux,java,cpp">
+  <img src="https://skillicons.dev/icons?i=express,jquery,js,html,css,react,next,nodejs,threejs,tailwind,linux,java">
     <br/>
     
   <img src="https://skillicons.dev/icons?i=cpp,c,vercel,git,firebase,postman,redux,bootstrap">
