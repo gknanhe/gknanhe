@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi <img src="./wave.gif" width=30> I'm Ganesh  Nanhe</h1>
+ <h1 align="center">Hi <img src="./wave.gif" width=30> I'm Ganesh  Nanhe</h1>
  <h3 align="center">A passionate frontend developer.</h3> -->
 
 
